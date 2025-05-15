@@ -6,6 +6,6 @@
     <title>Reportes</title>
 </head>
 <body>
-    <P>Reportes</P>
+    <P>Reportes  2</P>
 </body>
 </html>
